@@ -20,8 +20,8 @@ Go to Releases and download the installer for your platform:
 | Platform | File |
 |----------|------|
 | Windows | `daruma-print-agent-setup.exe` |
-| Linux x64 (PC / server) | `autoprint-agent-linux-x64.tar.xz` |
-| Linux ARM64 (Raspberry Pi) | `autoprint-agent-linux-arm64.tar.xz` |
+| Linux x64 (PC / server) | Coming soon |
+| Linux ARM64 (Raspberry Pi) | Coming soon |
 | macOS | Coming soon |
 
 ---
